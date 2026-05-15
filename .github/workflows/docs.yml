@@ -15,7 +15,6 @@ jobs:
         with:
           node-version: 22
           cache: pnpm
-      - run: pnpm install --frozen-lockfile --allow-build="@parcel/watcher,esbuild"
       - run: pnpm install --frozen-lockfile
       - run: pnpm docs:build
       - uses: crazy-max/ghaction-github-pages@v4
