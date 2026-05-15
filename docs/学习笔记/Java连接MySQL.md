@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: Java 连接 MySQL 最简 Demo
+title: Java 连接 MySQL
 description: 2026-05-06-Java连接MySQL最小环境
 ---
 

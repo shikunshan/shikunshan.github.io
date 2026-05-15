@@ -1,6 +1,6 @@
 ---
 lang: zh-CN
-title: Markdown 常用语法
+title: Markdown 语法
 description: 记录 markdown 简单常用的语法
 ---
 

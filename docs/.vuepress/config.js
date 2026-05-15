@@ -43,7 +43,7 @@ export default defineUserConfig({
         collapsible: true,
         children: [
           '/每日记录/模板',
-          '/每日记录/2026-05-08', 
+          '/每日记录/2026.5.8', 
           '/每日记录/2026-05-09', 
           '/每日记录/2026-05-10', 
           '/每日记录/2026-05-11', 
@@ -54,6 +54,7 @@ export default defineUserConfig({
         collapsible: true,
         children: [
           '/哲学思考/活着',
+          '/哲学思考/克制欲望',
         ],
       },
     ],
