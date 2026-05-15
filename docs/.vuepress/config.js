@@ -55,6 +55,7 @@ export default defineUserConfig({
         children: [
           '/哲学思考/活着',
           '/哲学思考/克制欲望',
+          '/哲学思考/健康生活',
         ],
       },
     ],
